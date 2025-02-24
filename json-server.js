@@ -49,7 +49,7 @@ app.use(async (ctx, next) =>{
         ctx.error = 'Действие не возможно. Такой семинар не зарегистрирован.';
         break;
       }
-      if(method === 'delete') {
+      if(method === 'DELETE') {
         dataSeminars.seminars.splice(index, 1);
         fs.writeFileSync('seminars.json', JSON.stringify(dataSeminars, null, 2));
         ctx.response.body = fs.readFileSync('seminars.json');

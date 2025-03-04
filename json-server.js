@@ -41,8 +41,7 @@ app.use(async (ctx, next) => {
         break;
       }
       recData.id = uuidv4(6);
-
-console.log(recData);
+      
       dataSeminars.seminars.push(recData);
       fs.writeFileSync("seminars.json", JSON.stringify(dataSeminars, null, 2));
       ctx.response.body = recData;

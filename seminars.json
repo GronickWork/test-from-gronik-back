@@ -81,21 +81,20 @@
       "photo": "https://prv3.lori-images.net/0041146397-larger.jpg"
     },
     {
-      "title": "Косметика. Новые методы.",
-      "description": "Какое-то описание новых методов косметики и косметологии.",
-      "date": "12.03.2025",
-      "time": "13:45",
-      "photo": "https://prv3.lori-images.net/0041146396-larger.jpg",
-      "id": "95b45c9e-78f6-47d8-a6f8-e53312c2cb85"
+      "title": "Магнит-косметик",
+      "description": "Тестовое описание семинара",
+      "date": "2025-02-27",
+      "time": "21:08",
+      "photo": "https://prv3.lori-images.net/0041146394-larger.jpg",
+      "id": "e99afd3f-3356-4877-99c9-c4e68f5f450b"
     },
     {
-      "title": "Косметика от магнит-косметик.",
-      "description": "Специфические методы в косметологии при использовании косметики брендов магнит-косметик ",
-      "date": "19.03.2025",
-      "time": "10:30",
-      "photo": "https://prv3.lori-images.net/0041146395-larger.jpg",
-      "": "",
-      "id": "c5061299-84d9-4c45-a33d-e0da7438dfeb"
+      "title": "Косметика. Новые методы.",
+      "description": "Описание новых методов в косметологии",
+      "date": "2025-03-05",
+      "time": "09:30",
+      "photo": "https://prv3.lori-images.net/0041146393-larger.jpg",
+      "id": "4d3d1153-fcc1-4f6f-8057-9ec8aebd522f"
     }
   ]
 }
